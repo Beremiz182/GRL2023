@@ -1,3 +1,6 @@
+*** To be published in the Geophysiscal Research Letters 
+
+
 *******************
 CODES DESCRIPTION
 *******************
