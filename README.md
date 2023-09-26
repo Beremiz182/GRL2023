@@ -1,4 +1,4 @@
-* To be published in the Geophysiscal Research Letters 
+## To be published in the Geophysiscal Research Letters 
 
 
 *******************
