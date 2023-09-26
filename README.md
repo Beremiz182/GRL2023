@@ -2,10 +2,10 @@
 CODES DESCRIPTION
 *******************
 
-- Code Languages:
+- Code Languages: \n
 
-	.py - python (interpreter Python 3.11)
-	.m - matlab (version 2021b)
+	.py - python (interpreter Python 3.11) \n
+	.m - matlab (version 2021b) \n
 
 - Files:
 
